@@ -1,0 +1,1 @@
+```$ go run main.go ip --host amazon.com.br```
